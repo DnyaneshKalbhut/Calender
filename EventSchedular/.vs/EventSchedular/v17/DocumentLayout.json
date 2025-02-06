@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\EventSchedular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|d:\\dotnet\\eventschedular\\eventschedular\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|solutionrelative:eventschedular\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|d:\\dotnet\\eventschedular\\eventschedular\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|solutionrelative:eventschedular\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|d:\\dotnet\\eventschedular\\eventschedular\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|solutionrelative:eventschedular\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|d:\\dotnet\\eventschedular\\eventschedular\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186FE9F4-29DC-4FB4-97AB-46C2657DE91D}|EventSchedular\\EventSchedular.csproj|solutionrelative:eventschedular\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\DotNet\\EventSchedular\\EventSchedular\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventSchedular\\Models\\Event.cs",
+              "ToolTip": "D:\\DotNet\\EventSchedular\\EventSchedular\\Models\\Event.cs",
+              "RelativeToolTip": "EventSchedular\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:08:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\EventSchedular\\EventSchedular\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventSchedular\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet\\EventSchedular\\EventSchedular\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventSchedular\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:08:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\EventSchedular\\EventSchedular\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EventSchedular\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\DotNet\\EventSchedular\\EventSchedular\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EventSchedular\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:55:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\DotNet\\EventSchedular\\EventSchedular\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventSchedular\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\DotNet\\EventSchedular\\EventSchedular\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventSchedular\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:55:01.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
